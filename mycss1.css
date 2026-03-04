@@ -1,0 +1,53 @@
+    body{
+            background-color: rgb(227, 255, 246);
+            font-family: Verdana, Arial, Tahoma, sans-serif;
+            color: black;
+              margin-top: 70px;
+              margin-bottom: 100px;
+  margin-right: 50px;
+  margin-left: 100px;
+
+        }
+        p{
+            text-align: left;
+        }
+
+        #namarepporter{
+            font-weight: bold;
+            font-size: small;
+        }
+
+        .publis{
+            text-align: center;
+            font-size: small
+        }
+
+        .judul{
+            font-size: large;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        a:link{
+            text-decoration: none;
+            color: blue;
+        }
+        a:hover{
+             text-decoration:underline;
+             color: blue;
+             font-size:large;
+        }
+        a:visited{
+             text-decoration: none;
+             color: blue;
+        }
+
+        .agakmasuk{
+              margin-left: 20px;
+        }
+
+        .gambar{
+            border-radius: 15px;
+            box-shadow: 5px 5px 10px rgba(255, 254, 254, 0.5);
+        }
+        
